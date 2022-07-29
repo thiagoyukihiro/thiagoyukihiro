@@ -4,5 +4,3 @@
 <div>
 <h2 align="center">Meu linkedin:<a href="https://www.linkedin.com/in/thiago-yukihiro-nakama-780789239/"> <i>Não clique aqui 🥺</i>
 <div>
-<tr style="text-align: center;">
-
