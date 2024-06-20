@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">Meu nome é Thiago Yukihiro Nakama</p>
+<h1 align="left">Olá meu nome é Thiago</h1>
 
 <h2 align="left">Minhas Linguagem de programação são</h2>
 
