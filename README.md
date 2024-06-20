@@ -1,5 +1,7 @@
 <h1 align="left">Olá, meu nome é Thiago</h1>
 
+<br>
+
 <h2 align="left">Minhas Linguagem de programação são</h2>
 
 <div align="left">
